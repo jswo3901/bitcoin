@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src" //모도든 경로가 baseurl에 대하여 상대적이다.
+    }
+}
